@@ -60,10 +60,6 @@ footer {
   }
   
   @media (max-width:800px) {
-      .footer-title h5{
-          margin-left: 12px;
-      }
-  
       footer .col-md-4{
           margin: 20px 0;
       }

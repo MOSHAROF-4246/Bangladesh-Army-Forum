@@ -164,8 +164,6 @@ footer {
   }
   
   @media (max-width:800px) {
-     
-  
       footer .col-md-4{
           margin: 20px 0;
       }
